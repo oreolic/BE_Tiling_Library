@@ -4,7 +4,7 @@ Generate sgRNA tiling library for cytosine base editor and adenine base editor.
 Input is a single gene symbol or list of gene symbol.
 
 
-required data
+required file
 1. make directory named hg19 and hg38 in EssentialData
 2. then download fasta file of GRCh37 and GRCh38 divided by chromosome. 
 3. rename each fasta file (eg hg19_1.fasta)
